@@ -1,18 +1,27 @@
+
+# Advanced Natural Language Processing in Python
+
+# Version 1.0
+
 **Course Summary**
+
 This course will focus on four key topics in Natural Language Processing, information retrieval, classification, sentiment analysis and topic modelling. The information retrieval covers the building blocks of a search engine - the inverted index and maps out in detail with both illustrations and code how an information retrieval application can be built. Three disparate, classical approaches will be examined to fulfil this objective. Classification will then be outlined, focusing on its supervised machine learning foundations. A real-world classification problem of news classification will be illustrated using a BBC news dataset. Classification will again be enacted to undertake sentiment analysis. Key challanges in the field of sentiment analysis will also be explored.  Topic Modelling as the name suggests is a process to automatically identify topics present in a datset. The course will demostrate from a practical perspective how this can be attained.
 
 **Learning Outcome**
+
 
 Participants should attain specialist knowledge and skills to enable development of more challenging language based applications like sentiment analysis and search engines.
 
 
 **Lead Developer**
+
 Saliha Minhas
 
 **Course Reviewer(s)**
+
 Pending
 
-**Intended Audience**
+**Intended Audience
 
 Participants would normally be those working in specialised areas that require specific knowledge and skills to handle natural language.
 
@@ -34,8 +43,8 @@ Participants would normally be those working in specialised areas that require s
 * Execute topic modelling using steps with code shown over a dataset
 
 
+**Course Type** 
 
-**Course Type** (Fixed length list.)
 * E learning - Not Available
 * Self learning -  Not Available
 * Face to face - Available

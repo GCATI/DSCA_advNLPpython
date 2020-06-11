@@ -1,7 +1,7 @@
 
 # Advanced Natural Language Processing in Python
 
-# Version 1.0
+### Version 1.0
 
 **Course Summary**
 

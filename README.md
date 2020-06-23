@@ -7,7 +7,7 @@
 
 This course will focus on four key topics in Natural Language Processing: information retrieval, classification, sentiment analysis and topic modelling. Information retrieval covers the building blocks of a search engine - the inverted index and maps out in detail with both illustrations and code how an information retrieval application can be built. Three disparate, classical approaches will be examined to fulfil this objective. Classification will then be outlined, focusing on its supervised machine learning foundations. A real-world classification problem of news classification will be illustrated using a BBC news dataset. Classification will again be enacted to undertake sentiment analysis. Key challanges in the field of sentiment analysis will also be explored.  Topic Modelling as the name suggests is a process to automatically identify topics present in a datset. The course will demostrate from a practical perspective how this can be attained.
 
-**Learning Outcome**
+**Course Objective**
 
 
 Participants should attain specialist knowledge and skills to enable development of more challenging language based applications like sentiment analysis and search engines.
